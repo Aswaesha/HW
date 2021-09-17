@@ -4,9 +4,10 @@ import java.util.Arrays;
 
 public class MaxMinElem {
     public static void testMaxMinElem (){
-        int arr[] = {5, 2, 3, 1, 4};
+        int[] arr = {5, 2, 3, 1, 4};
         Arrays.sort(arr);
         System.out.println(arr[0] + arr[4]);
 
     }
 }
+/*В произвольном массиве найти сумму минимального и максимального элементов.*/
