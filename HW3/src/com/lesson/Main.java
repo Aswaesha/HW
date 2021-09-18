@@ -6,8 +6,8 @@ public class Main {
 //        NumFebbonachi testNumFibonachi =new NumFebbonachi();
 //        testNumFibonachi.testNumFebbonachi();
 //
-//        MaxMinElem testMaxMinElem =new  MaxMinElem();
-//        testMaxMinElem.testMaxMinElem();
+ //       MaxMinElem testMaxMinElem =new  MaxMinElem();
+ //       testMaxMinElem.testMaxMinElem();
 
 //        SumNambres testSumNambres =new  SumNambres();
 //        testSumNambres.testSumNambres();

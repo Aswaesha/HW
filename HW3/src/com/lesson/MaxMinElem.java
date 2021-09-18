@@ -1,13 +1,26 @@
-package com.lesson;
+//package com.lesson;
 
-import java.util.Arrays;
+//public class MaxMinElem {
+//    public void testMaxMinElem (){
+//        int[] arr = {5, 2, 3, 1, 4};
+//
+//        int max = 0;
+//        int min = arr[0];
+//
+//        for (int i = 0;i < arr.length; i++){
+//            if (arr[i] > max){
+//                max = arr[i];
+//            }
+//        }
+//
+//        for (int j = 0; j < arr.length; j++){
+//            if (arr[j] < min){
+//                min = arr[j];
+//            }
+//        }
+//
+//        System.out.println(min+max);
 
-public class MaxMinElem {
-    public static void testMaxMinElem (){
-        int[] arr = {5, 2, 3, 1, 4};
-        Arrays.sort(arr);
-        System.out.println(arr[0] + arr[4]);
-
-    }
-}
+ //   }
+//}
 /*В произвольном массиве найти сумму минимального и максимального элементов.*/
