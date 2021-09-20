@@ -8,6 +8,7 @@ package com.lesson;
 //        Address address = new Address("RB","Minsk");
 //        address.print();
 //    }
+//    @Deprecated
 //    public void printAddress(String name,String city){
 //        Address address = new Address("RB","Minsk");
 //        address.print();
