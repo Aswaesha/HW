@@ -1,5 +1,6 @@
 package com.lesson;
-import com.lesson.User2;
+//import com.lesson.User2;
+//import com.lesson.tooMetods;
 //import com.lesson.test.Test;
 //import com.lesson.test2.Test;
 
@@ -7,6 +8,9 @@ import com.lesson.User2;
 public class Main {
 
     public static void main(String ... args) {
+
+       // new tooMetods("",5).printAddress();
+
         /*Test test = new Test();
         test.name = "Olya";
 
@@ -16,8 +20,8 @@ public class Main {
          test.printName();
         test2.printName();*/
 
-        User2 user2= new User2("Olya",15);
-        user2.printAddress();
+       /* User2 user2= new User2("Olya",15);
+        user2.printAddress();/*
 
 
         /*Season mounth = Season.August;
