@@ -1,9 +1,9 @@
 package com.lesson;
-
+import com.lesson.User2;
 //import com.lesson.test.Test;
-import com.lesson.test2.Test;
+//import com.lesson.test2.Test;
 
-//import com.lesson.User.AddressName;
+
 public class Main {
 
     public static void main(String ... args) {
@@ -16,10 +16,9 @@ public class Main {
          test.printName();
         test2.printName();*/
 
+        User2 user2= new User2("Olya",15);
+        user2.printAddress();
 
-//        AddressName addressName= new AddressName();
-//        addressName.city="Gomel";
-//        addressName.country="Belarus";
 
         /*Season mounth = Season.August;
         switch (mounth) {
