@@ -8,13 +8,12 @@ package com.lesson;
             this.firstname = firstname;
             this.lastname = lastname;
         }
-        public void print(){
-                System.out.println(firstname + " " + lastname);
-            }
 
-        public void salary() {
-
+        @Override
+        public String toString() {
+            return "Person{" +
+                    "firstname='" + firstname + '\'' +
+                    ", lastname='" + lastname + '\'' +
+                    '}';
         }
-
-
     }

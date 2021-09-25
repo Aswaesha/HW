@@ -4,7 +4,7 @@ package com.lesson;
 //import com.lesson.test.Test;
 //import com.lesson.test2.Test;
 
-                                                                  // ОСТАЛЬНЫЕ ЗАДАНИЯ ПОКА НЕ УСПЕЛА =)
+
 
 
 public class Main {
