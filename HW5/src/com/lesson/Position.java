@@ -1,14 +1,16 @@
 package com.lesson;
 
 public enum Position {
-    DIRECTOR (2),
-    WORKER(3);
+    DIRECTOR (3),
+    WORKER(2);
 
-    private int coef;
+    private int coif;
 
-    Position (int coef){
-        this.coef = coef;
+    Position (int coif){
+        this.coif = coif;
     }
 
-
+    public int getCoif() {
+        return coif;
+    }
 }
